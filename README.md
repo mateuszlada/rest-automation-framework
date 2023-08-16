@@ -4,7 +4,7 @@
 Author:Mateusz Łada
 
 ### Overview
-This is the template of the test automation framework written in Java used for testing REST API.
+This is the template of the test automation framework written in Java used for testing REST API. The framework is a template to download and start testing any REST API application by reusing the code and the structure. It does not present all features of used tools but provides examples about possible usage. It also does not comprehensively test REST API as the target test automation solution and test coverage should address dedicated test strategy.
 
 ### Technology stack
 - Java
