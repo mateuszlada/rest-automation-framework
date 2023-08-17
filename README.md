@@ -13,7 +13,7 @@ This is the template of the test automation framework written in Java used for t
 - JUnit 5 https://junit.org/junit5/ - Test execution and reporting
 
 ### Application Under Test (REST API)
-https://swapi.dev/
+Demo REST API with the Star Wars data:  https://swapi.dev/
 
 ### Framework usage
 1. Install required software: Java, Git, Maven
