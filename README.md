@@ -17,6 +17,6 @@ Demo REST API with the Star Wars data:  https://swapi.dev/
 
 ### Framework usage
 1. Install required software: Java, Git, Maven
-2. Download repository `git clone https://github.com/mateuszlada/rest-java-framework.git`
+2. Download repository `git clone https://github.com/mateuszlada/rest-automation-framework.git`
 3. Build maven project `mvn clean install`
 4. Run tests `mvn test`
